@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=orange-na&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=orange-na&show_icons=true&locale=en&layout=compact" alt="orange-na" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=orange-na&show_icons=true&locale=en&layout=compact" alt="orange-na" /></p>
 
 <p>&nbsp;<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api?username=orange-na&show_icons=true&locale=en" alt="orange-na" /></p>
 
